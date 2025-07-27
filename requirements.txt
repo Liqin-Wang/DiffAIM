@@ -1,0 +1,8 @@
+diffusers==0.31.0
+lpips==0.1.4
+numpy==2.3.2
+Pillow==11.3.0
+Requests==2.32.4
+torch==2.1.1+cu118
+torchvision==0.16.1+cu118
+tqdm==4.66.1
